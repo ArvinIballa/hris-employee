@@ -13,7 +13,7 @@
     "argon-dashboard",
     "argon-dashboard-react"
   ],
-  "homepage": "https://demos.creative-tim.com/argon-dashboard-react/",
+  "homepage": "https://hris-employee.herokuapp.com",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
